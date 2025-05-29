@@ -1,0 +1,3 @@
+Unina Master of Science in Autonomous Vehicles Engineering
+Software developed for the course in Systems for Autonomous Aircraft by Leonardo Milone in 2023.
+The work is based on the software previously developed (2022) by Marco Donnarumma and Salvatore Norcaro.
